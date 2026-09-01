@@ -1,6 +1,6 @@
 # Collaborative Code Editor — Phase V Workspace
 
-Phase V now includes:
+Phase V:
 
 - SQLite persistence
 - Hierarchical files/folders
@@ -11,7 +11,7 @@ Phase V now includes:
 - Unique usernames per room
 - Presence list
 - Multi-file editor
-- VS Code + Apple-inspired UI
+
 
 ## Backend
 
